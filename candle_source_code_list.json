@@ -1,6 +1,7 @@
 {
     "sketch_urls": [
-        "https:\/\/github.com\/createcandle\/Devices\/raw\/master\/Temperature_and_more\/Temperature_and_more.ino",
-        "https:\/\/github.com\/createcandle\/Devices\/raw\/master\/Signal-hub\/Signal-hub.ino"
+        "https://raw.githubusercontent.com/createcandle/Devices/master/Temperature_and_more/Temperature_and_more.ino",
+        "https://raw.githubusercontent.com/createcandle/Devices/master/Signal-hub/Signal-hub.ino",
+        "https://raw.githubusercontent.com/createcandle/Devices/master/Candle_cleaner/Candle_cleaner.ino"
     ]
 }
