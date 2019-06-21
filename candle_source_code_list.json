@@ -1,6 +1,7 @@
 {
     "sketch_urls": [
         "https://raw.githubusercontent.com/createcandle/Devices/master/Candle_cleaner/Candle_cleaner.ino",
+        "https://github.com/createcandle/Devices/raw/master/Candle_receiver/Candle_receiver.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Temperature_and_more/Temperature_and_more.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Signal-hub/Signal-hub.ino",
         "https://github.com/createcandle/Devices/raw/master/Candle_maker_tool/Candle_maker_tool.ino"
