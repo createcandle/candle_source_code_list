@@ -1,5 +1,6 @@
 {
     "sketch_urls": [
+        "https://raw.githubusercontent.com/createcandle/Devices/master/Anemone/Anemone.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Candle_cleaner/Candle_cleaner.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Candle_receiver/Candle_receiver.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Temperature_and_more/Temperature_and_more.ino",
