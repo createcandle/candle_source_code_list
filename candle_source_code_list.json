@@ -1,10 +1,12 @@
 {
     "sketch_urls": [
+        "https://github.com/createcandle/Devices/blob/master/Alarm_clock/Alarm_clock.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Anemone/Anemone.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Candle_cleaner/Candle_cleaner.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Candle_receiver/Candle_receiver.ino",
+        "https://github.com/createcandle/Devices/blob/master/Energy_use_meter/Energy_use_meter.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Temperature_and_more/Temperature_and_more.ino",
-        "https://raw.githubusercontent.com/createcandle/Devices/master/Temperature/Temperature.ino",
+        "https://raw.githubusercontent.com/createcandle/Devices/master/Energy_use_sensor/Energy_use_sensor.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Signal-hub/Signal-hub.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Candle_maker_tool/Candle_maker_tool.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Dust_sensor/Dust_sensor.ino",
