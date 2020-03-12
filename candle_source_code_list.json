@@ -12,6 +12,7 @@
         "https://raw.githubusercontent.com/createcandle/Devices/master/Dust_sensor/Dust_sensor.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Carbon_sensor/Carbon_sensor.ino",
         "https://raw.githubusercontent.com/createcandle/Devices/master/Smart_lock/Smart_lock.ino",
-        "https://raw.githubusercontent.com/createcandle/Devices/master/Smart_lock/SoftwareSerial.h"
+        "https://raw.githubusercontent.com/createcandle/Devices/master/Smart_lock/SoftwareSerial.h",
+        "https://raw.githubusercontent.com/createcandle/Devices/master/Smart_lock/SoftwareSerial.cpp"
     ]
 }
